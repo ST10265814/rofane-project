@@ -1,0 +1,1 @@
+<?php // Send email notifications ?>
